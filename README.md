@@ -1,4 +1,6 @@
 # Cpp-chatbot-using-OpenRouter
+![Screenshot from 2025-04-08 14-32-16](https://github.com/user-attachments/assets/7447f057-45a2-454e-848b-7058be09cd89)
+
 A C++ chatbot application that leverages the OpenRouter API to provide AI-powered conversational capabilities. This project demonstrates how to integrate modern AI language models into a native C++ application.
 
 ## Key Features
@@ -21,4 +23,5 @@ A C++ chatbot application that leverages the OpenRouter API to provide AI-powere
 
 ## 📚 Related Articles  
 - [Handling JSON in Modern C++ with nlohmann/json Library](https://medium.com/@abdallahrabie45/handling-json-in-modern-c-with-nlohmann-json-library-214b2e50453a)  
-- [C++ HTTP/HTTPS Requests: Raw Sockets vs. libcurl – A Practical Guide](https://medium.com/@abdallahrabie45/c-http-https-requests-raw-sockets-vs-libcurl-a-practical-guide-21750689db55)  
+- [C++ HTTP/HTTPS Requests: Raw Sockets vs. libcurl – A Practical Guide](https://medium.com/@abdallahrabie45/c-http-https-requests-raw-sockets-vs-libcurl-a-practical-guide-21750689db55)
+ 
