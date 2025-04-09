@@ -86,7 +86,7 @@ public:
 int main()
 {
 
-    std::string apiKey = "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";
+    std::string apiKey = "YOUR API KEY";
     AIchatbot aibot(apiKey, "deepseek/deepseek-r1:free");
     std::string userInput;
     while (true)
